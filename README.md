@@ -1,2 +1,10 @@
-# AP-GersonSpilker
-Exemplo de utilização de GIT
+## TicTacToe
+
+### To-Do
+- [ ] Scoreboard
+- [ ] Interactive Playing field
+- [ ] Mouse interaction of course
+- [ ] WinCheck
+
+
+
